@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jairgf05](https://github.com/jairgf05)
 
-- 📝 I regularly write articles on [https://medium.com/@jairgf05](https://medium.com/@jairgf05)
-
 - 💬 Ask me about **Python, NLP, DB**
 
 - 📫 How to reach me **jairgf05@gmail.com**
