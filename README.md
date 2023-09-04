@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, NLP, DB**
 
-- 📫 How to reach me **jairgf05@gmail.com**
+- 📫 How to reach me **jairgfdev@gmail.com**
 
 - ⚡ Fun fact **Love books, videogames and chess**
 
